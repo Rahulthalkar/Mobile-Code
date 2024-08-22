@@ -1,0 +1,394 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Mobile-Code\\Mobile.Service\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BA0E4182-6D6F-40FB-86EF-9BB86AC151D2}|Mobile.DAL\\Mobile.DAL.csproj|D:\\Mobile-Code\\Mobile.Service\\mobile.dal\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA0E4182-6D6F-40FB-86EF-9BB86AC151D2}|Mobile.DAL\\Mobile.DAL.csproj|solutionrelative:mobile.dal\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29FEB2D3-8E91-4881-9992-2E85AED1A9DD}|Mobile.BLL\\Mobile.BLL.csproj|d:\\mobile-code\\mobile.service\\mobile.bll\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29FEB2D3-8E91-4881-9992-2E85AED1A9DD}|Mobile.BLL\\Mobile.BLL.csproj|solutionrelative:mobile.bll\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9AC1165-8C1C-4DDF-879E-6E726B55817C}|Mobile.Domain\\Mobile.Domain.csproj|D:\\Mobile-Code\\Mobile.Service\\mobile.domain\\userrequestmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9AC1165-8C1C-4DDF-879E-6E726B55817C}|Mobile.Domain\\Mobile.Domain.csproj|solutionrelative:mobile.domain\\userrequestmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9AC1165-8C1C-4DDF-879E-6E726B55817C}|Mobile.Domain\\Mobile.Domain.csproj|D:\\Mobile-Code\\Mobile.Service\\mobile.domain\\table\\tbldropdown.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9AC1165-8C1C-4DDF-879E-6E726B55817C}|Mobile.Domain\\Mobile.Domain.csproj|solutionrelative:mobile.domain\\table\\tbldropdown.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8C759B7-7315-4081-8CD9-2F4350A071CB}|Mobile.Service\\Mobile.Service.csproj|D:\\Mobile-Code\\Mobile.Service\\mobile.service\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8C759B7-7315-4081-8CD9-2F4350A071CB}|Mobile.Service\\Mobile.Service.csproj|solutionrelative:mobile.service\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9AC1165-8C1C-4DDF-879E-6E726B55817C}|Mobile.Domain\\Mobile.Domain.csproj|D:\\Mobile-Code\\Mobile.Service\\mobile.domain\\table\\tbluser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9AC1165-8C1C-4DDF-879E-6E726B55817C}|Mobile.Domain\\Mobile.Domain.csproj|solutionrelative:mobile.domain\\table\\tbluser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA0E4182-6D6F-40FB-86EF-9BB86AC151D2}|Mobile.DAL\\Mobile.DAL.csproj|D:\\Mobile-Code\\Mobile.Service\\mobile.dal\\interface\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA0E4182-6D6F-40FB-86EF-9BB86AC151D2}|Mobile.DAL\\Mobile.DAL.csproj|solutionrelative:mobile.dal\\interface\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA0E4182-6D6F-40FB-86EF-9BB86AC151D2}|Mobile.DAL\\Mobile.DAL.csproj|D:\\Mobile-Code\\Mobile.Service\\mobile.dal\\dropdownrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA0E4182-6D6F-40FB-86EF-9BB86AC151D2}|Mobile.DAL\\Mobile.DAL.csproj|solutionrelative:mobile.dal\\dropdownrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA0E4182-6D6F-40FB-86EF-9BB86AC151D2}|Mobile.DAL\\Mobile.DAL.csproj|D:\\Mobile-Code\\Mobile.Service\\mobile.dal\\dbentities.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA0E4182-6D6F-40FB-86EF-9BB86AC151D2}|Mobile.DAL\\Mobile.DAL.csproj|solutionrelative:mobile.dal\\dbentities.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{116CCE31-C5B7-4743-8BF1-F244A2A0571C}|Mobile.DB\\Mobile.DB.csproj|D:\\Mobile-Code\\Mobile.Service\\mobile.db\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{116CCE31-C5B7-4743-8BF1-F244A2A0571C}|Mobile.DB\\Mobile.DB.csproj|solutionrelative:mobile.db\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{116CCE31-C5B7-4743-8BF1-F244A2A0571C}|Mobile.DB\\Mobile.DB.csproj|D:\\Mobile-Code\\Mobile.Service\\mobile.db\\mobiledbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{116CCE31-C5B7-4743-8BF1-F244A2A0571C}|Mobile.DB\\Mobile.DB.csproj|solutionrelative:mobile.db\\mobiledbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{116CCE31-C5B7-4743-8BF1-F244A2A0571C}|Mobile.DB\\Mobile.DB.csproj|D:\\Mobile-Code\\Mobile.Service\\mobile.db\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{116CCE31-C5B7-4743-8BF1-F244A2A0571C}|Mobile.DB\\Mobile.DB.csproj|solutionrelative:mobile.db\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8C759B7-7315-4081-8CD9-2F4350A071CB}|Mobile.Service\\Mobile.Service.csproj|D:\\Mobile-Code\\Mobile.Service\\mobile.service\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{C8C759B7-7315-4081-8CD9-2F4350A071CB}|Mobile.Service\\Mobile.Service.csproj|solutionrelative:mobile.service\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8C759B7-7315-4081-8CD9-2F4350A071CB}|Mobile.Service\\Mobile.Service.csproj|D:\\Mobile-Code\\Mobile.Service\\mobile.service\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8C759B7-7315-4081-8CD9-2F4350A071CB}|Mobile.Service\\Mobile.Service.csproj|solutionrelative:mobile.service\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8C759B7-7315-4081-8CD9-2F4350A071CB}|Mobile.Service\\Mobile.Service.csproj|D:\\Mobile-Code\\Mobile.Service\\mobile.service\\mobile.service.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{C8C759B7-7315-4081-8CD9-2F4350A071CB}|Mobile.Service\\Mobile.Service.csproj|solutionrelative:mobile.service\\mobile.service.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA0E4182-6D6F-40FB-86EF-9BB86AC151D2}|Mobile.DAL\\Mobile.DAL.csproj|D:\\Mobile-Code\\Mobile.Service\\mobile.dal\\interface\\idropdownrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA0E4182-6D6F-40FB-86EF-9BB86AC151D2}|Mobile.DAL\\Mobile.DAL.csproj|solutionrelative:mobile.dal\\interface\\idropdownrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9AC1165-8C1C-4DDF-879E-6E726B55817C}|Mobile.Domain\\Mobile.Domain.csproj|D:\\Mobile-Code\\Mobile.Service\\mobile.domain\\apiresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9AC1165-8C1C-4DDF-879E-6E726B55817C}|Mobile.Domain\\Mobile.Domain.csproj|solutionrelative:mobile.domain\\apiresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29FEB2D3-8E91-4881-9992-2E85AED1A9DD}|Mobile.BLL\\Mobile.BLL.csproj|D:\\Mobile-Code\\Mobile.Service\\mobile.bll\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29FEB2D3-8E91-4881-9992-2E85AED1A9DD}|Mobile.BLL\\Mobile.BLL.csproj|solutionrelative:mobile.bll\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA0E4182-6D6F-40FB-86EF-9BB86AC151D2}|Mobile.DAL\\Mobile.DAL.csproj|D:\\Mobile-Code\\Mobile.Service\\mobile.dal\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA0E4182-6D6F-40FB-86EF-9BB86AC151D2}|Mobile.DAL\\Mobile.DAL.csproj|solutionrelative:mobile.dal\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{116CCE31-C5B7-4743-8BF1-F244A2A0571C}|Mobile.DB\\Mobile.DB.csproj|D:\\Mobile-Code\\Mobile.Service\\Mobile.DB\\Migrations\\20240809112805_initaildb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{116CCE31-C5B7-4743-8BF1-F244A2A0571C}|Mobile.DB\\Mobile.DB.csproj|solutionrelative:Mobile.DB\\Migrations\\20240809112805_initaildb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{116CCE31-C5B7-4743-8BF1-F244A2A0571C}|Mobile.DB\\Mobile.DB.csproj|D:\\Mobile-Code\\Mobile.Service\\Mobile.DB\\Migrations\\20240812064142_dbupdate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{116CCE31-C5B7-4743-8BF1-F244A2A0571C}|Mobile.DB\\Mobile.DB.csproj|solutionrelative:Mobile.DB\\Migrations\\20240812064142_dbupdate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{116CCE31-C5B7-4743-8BF1-F244A2A0571C}|Mobile.DB\\Mobile.DB.csproj|D:\\Mobile-Code\\Mobile.Service\\Mobile.DB\\Migrations\\20240812061433_db.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{116CCE31-C5B7-4743-8BF1-F244A2A0571C}|Mobile.DB\\Mobile.DB.csproj|solutionrelative:Mobile.DB\\Migrations\\20240812061433_db.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "userRequestModel.cs",
+              "DocumentMoniker": "D:\\Mobile-Code\\Mobile.Service\\Mobile.Domain\\userRequestModel.cs",
+              "RelativeDocumentMoniker": "Mobile.Domain\\userRequestModel.cs",
+              "ToolTip": "D:\\Mobile-Code\\Mobile.Service\\Mobile.Domain\\userRequestModel.cs",
+              "RelativeToolTip": "Mobile.Domain\\userRequestModel.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAewBQAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T10:07:23.931Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "D:\\Mobile-Code\\Mobile.Service\\Mobile.DAL\\UserRepository.cs",
+              "RelativeDocumentMoniker": "Mobile.DAL\\UserRepository.cs",
+              "ToolTip": "D:\\Mobile-Code\\Mobile.Service\\Mobile.DAL\\UserRepository.cs",
+              "RelativeToolTip": "Mobile.DAL\\UserRepository.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAowCsAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T10:48:07.913Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "D:\\Mobile-Code\\Mobile.Service\\Mobile.BLL\\UserService.cs",
+              "RelativeDocumentMoniker": "Mobile.BLL\\UserService.cs",
+              "ToolTip": "D:\\Mobile-Code\\Mobile.Service\\Mobile.BLL\\UserService.cs",
+              "RelativeToolTip": "Mobile.BLL\\UserService.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAYwBoAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T11:07:20.561Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "MobileDBContext.cs",
+              "DocumentMoniker": "D:\\Mobile-Code\\Mobile.Service\\Mobile.DB\\MobileDBContext.cs",
+              "RelativeDocumentMoniker": "Mobile.DB\\MobileDBContext.cs",
+              "ToolTip": "D:\\Mobile-Code\\Mobile.Service\\Mobile.DB\\MobileDBContext.cs",
+              "RelativeToolTip": "Mobile.DB\\MobileDBContext.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA0AAABAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T09:59:00.151Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "tblUser.cs",
+              "DocumentMoniker": "D:\\Mobile-Code\\Mobile.Service\\Mobile.Domain\\Table\\tblUser.cs",
+              "RelativeDocumentMoniker": "Mobile.Domain\\Table\\tblUser.cs",
+              "ToolTip": "D:\\Mobile-Code\\Mobile.Service\\Mobile.Domain\\Table\\tblUser.cs",
+              "RelativeToolTip": "Mobile.Domain\\Table\\tblUser.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAA8AAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T10:02:52.62Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "tblDropdown.cs",
+              "DocumentMoniker": "D:\\Mobile-Code\\Mobile.Service\\Mobile.Domain\\Table\\tblDropdown.cs",
+              "RelativeDocumentMoniker": "Mobile.Domain\\Table\\tblDropdown.cs",
+              "ToolTip": "D:\\Mobile-Code\\Mobile.Service\\Mobile.Domain\\Table\\tblDropdown.cs",
+              "RelativeToolTip": "Mobile.Domain\\Table\\tblDropdown.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T10:01:21.072Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "20240812064142_dbupdate.cs",
+              "DocumentMoniker": "D:\\Mobile-Code\\Mobile.Service\\Mobile.DB\\Migrations\\20240812064142_dbupdate.cs",
+              "RelativeDocumentMoniker": "Mobile.DB\\Migrations\\20240812064142_dbupdate.cs",
+              "ToolTip": "D:\\Mobile-Code\\Mobile.Service\\Mobile.DB\\Migrations\\20240812064142_dbupdate.cs",
+              "RelativeToolTip": "Mobile.DB\\Migrations\\20240812064142_dbupdate.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-12T06:41:42.406Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "20240812061433_db.cs",
+              "DocumentMoniker": "D:\\Mobile-Code\\Mobile.Service\\Mobile.DB\\Migrations\\20240812061433_db.cs",
+              "RelativeDocumentMoniker": "Mobile.DB\\Migrations\\20240812061433_db.cs",
+              "ToolTip": "D:\\Mobile-Code\\Mobile.Service\\Mobile.DB\\Migrations\\20240812061433_db.cs",
+              "RelativeToolTip": "Mobile.DB\\Migrations\\20240812061433_db.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-12T06:14:33.331Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "D:\\Mobile-Code\\Mobile.Service\\Mobile.Service\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "Mobile.Service\\Controllers\\UserController.cs",
+              "ToolTip": "D:\\Mobile-Code\\Mobile.Service\\Mobile.Service\\Controllers\\UserController.cs",
+              "RelativeToolTip": "Mobile.Service\\Controllers\\UserController.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAYwBcAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T11:13:46.071Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IUserRepository.cs",
+              "DocumentMoniker": "D:\\Mobile-Code\\Mobile.Service\\Mobile.DAL\\Interface\\IUserRepository.cs",
+              "RelativeDocumentMoniker": "Mobile.DAL\\Interface\\IUserRepository.cs",
+              "ToolTip": "D:\\Mobile-Code\\Mobile.Service\\Mobile.DAL\\Interface\\IUserRepository.cs",
+              "RelativeToolTip": "Mobile.DAL\\Interface\\IUserRepository.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAAwAwAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T10:25:35.931Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Mobile-Code\\Mobile.Service\\Mobile.DB\\Program.cs",
+              "RelativeDocumentMoniker": "Mobile.DB\\Program.cs",
+              "ToolTip": "D:\\Mobile-Code\\Mobile.Service\\Mobile.DB\\Program.cs",
+              "RelativeToolTip": "Mobile.DB\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T11:26:24.801Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "DropDownRepository.cs",
+              "DocumentMoniker": "D:\\Mobile-Code\\Mobile.Service\\Mobile.DAL\\DropDownRepository.cs",
+              "RelativeDocumentMoniker": "Mobile.DAL\\DropDownRepository.cs",
+              "ToolTip": "D:\\Mobile-Code\\Mobile.Service\\Mobile.DAL\\DropDownRepository.cs",
+              "RelativeToolTip": "Mobile.DAL\\DropDownRepository.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAADwvxMAAABbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T10:43:26.222Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "DBEntities.cs",
+              "DocumentMoniker": "D:\\Mobile-Code\\Mobile.Service\\Mobile.DAL\\DBEntities.cs",
+              "RelativeDocumentMoniker": "Mobile.DAL\\DBEntities.cs",
+              "ToolTip": "D:\\Mobile-Code\\Mobile.Service\\Mobile.DAL\\DBEntities.cs",
+              "RelativeToolTip": "Mobile.DAL\\DBEntities.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAAABQAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T09:59:53.718Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Mobile-Code\\Mobile.Service\\Mobile.Service\\Program.cs",
+              "RelativeDocumentMoniker": "Mobile.Service\\Program.cs",
+              "ToolTip": "D:\\Mobile-Code\\Mobile.Service\\Mobile.Service\\Program.cs",
+              "RelativeToolTip": "Mobile.Service\\Program.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABUAAABFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T11:24:28.485Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Mobile-Code\\Mobile.Service\\Mobile.DB\\appsettings.json",
+              "RelativeDocumentMoniker": "Mobile.DB\\appsettings.json",
+              "ToolTip": "D:\\Mobile-Code\\Mobile.Service\\Mobile.DB\\appsettings.json",
+              "RelativeToolTip": "Mobile.DB\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-09T10:08:51.761Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Mobile-Code\\Mobile.Service\\Mobile.Service\\appsettings.json",
+              "RelativeDocumentMoniker": "Mobile.Service\\appsettings.json",
+              "ToolTip": "D:\\Mobile-Code\\Mobile.Service\\Mobile.Service\\appsettings.json",
+              "RelativeToolTip": "Mobile.Service\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-09T10:08:18.814Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Mobile.Service",
+              "DocumentMoniker": "D:\\Mobile-Code\\Mobile.Service\\Mobile.Service\\Mobile.Service.csproj",
+              "RelativeDocumentMoniker": "Mobile.Service\\Mobile.Service.csproj",
+              "ToolTip": "D:\\Mobile-Code\\Mobile.Service\\Mobile.Service\\Mobile.Service.csproj",
+              "RelativeToolTip": "Mobile.Service\\Mobile.Service.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-08-09T11:21:48.58Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "20240809112805_initaildb.cs",
+              "DocumentMoniker": "D:\\Mobile-Code\\Mobile.Service\\Mobile.DB\\Migrations\\20240809112805_initaildb.cs",
+              "RelativeDocumentMoniker": "Mobile.DB\\Migrations\\20240809112805_initaildb.cs",
+              "ToolTip": "D:\\Mobile-Code\\Mobile.Service\\Mobile.DB\\Migrations\\20240809112805_initaildb.cs",
+              "RelativeToolTip": "Mobile.DB\\Migrations\\20240809112805_initaildb.cs",
+              "ViewState": "AQIAABwAAAAAAAAAAAAgwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T11:28:05.327Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "IDropDownRepository.cs",
+              "DocumentMoniker": "D:\\Mobile-Code\\Mobile.Service\\Mobile.DAL\\Interface\\IDropDownRepository.cs",
+              "RelativeDocumentMoniker": "Mobile.DAL\\Interface\\IDropDownRepository.cs",
+              "ToolTip": "D:\\Mobile-Code\\Mobile.Service\\Mobile.DAL\\Interface\\IDropDownRepository.cs",
+              "RelativeToolTip": "Mobile.DAL\\Interface\\IDropDownRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T10:31:37.616Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "APIResult.cs",
+              "DocumentMoniker": "D:\\Mobile-Code\\Mobile.Service\\Mobile.Domain\\APIResult.cs",
+              "RelativeDocumentMoniker": "Mobile.Domain\\APIResult.cs",
+              "ToolTip": "D:\\Mobile-Code\\Mobile.Service\\Mobile.Domain\\APIResult.cs",
+              "RelativeToolTip": "Mobile.Domain\\APIResult.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T09:36:53.025Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "D:\\Mobile-Code\\Mobile.Service\\Mobile.BLL\\Class1.cs",
+              "RelativeDocumentMoniker": "Mobile.BLL\\Class1.cs",
+              "ToolTip": "D:\\Mobile-Code\\Mobile.Service\\Mobile.BLL\\Class1.cs",
+              "RelativeToolTip": "Mobile.BLL\\Class1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T09:34:42.024Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "D:\\Mobile-Code\\Mobile.Service\\Mobile.DAL\\Class1.cs",
+              "RelativeDocumentMoniker": "Mobile.DAL\\Class1.cs",
+              "ToolTip": "D:\\Mobile-Code\\Mobile.Service\\Mobile.DAL\\Class1.cs",
+              "RelativeToolTip": "Mobile.DAL\\Class1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T09:33:34.969Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

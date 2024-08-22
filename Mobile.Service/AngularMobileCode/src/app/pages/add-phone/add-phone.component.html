@@ -1,0 +1,98 @@
+	<!-- <div class="wrapper">
+		<button (click)="changeCountry(CountryISO.India)">Change to India</button>
+		<button (click)="changeCountry(CountryISO.Canada)">Change to Canada</button>
+        <nz-select class="mt-2" nzAllowClear nzPlaceHolder="Select Country Code" 
+            formControlName="contryCodeId" nzId="contryCodeId" [nzShowSearch]="true" >
+            @for (option of contryCodeOptions; track $index) { 
+            <ng-container>
+              <nz-option [nzLabel]="option.value" [nzValue]="option.label"></nz-option>
+            </ng-container>}
+          </nz-select>
+	</div> -->
+
+<div style="margin: 50px">
+	<h1>Test International Telephone Input Form</h1>
+	<br>
+	<!-- <div class="wrapper">
+		<input type="checkbox" [(ngModel)]="separateDialCode">
+		<label>&nbsp;Separate Dial Code?</label>
+	</div> -->
+	<div class="wrapper">
+		<!-- <button (click)="changeCountry(CountryISO.India)">Change to India</button>
+		<button (click)="changeCountry(CountryISO.Canada)">Change to Canada</button> -->
+
+        <!-- Country Code Selector -->
+        <!-- <nz-select class="mt-2" nzAllowClear nzPlaceHolder="Select Country Code" 
+            formControlName="contryCodeId" nzId="contryCodeId" 
+            [nzShowSearch]="true" (ngModelChange)="changeCountry($event)">
+            @for (option of contryCodeOptions; track $index) { 
+                <ng-container>
+                  <nz-option  [nzLabel]="option.label" [nzValue]="option.value"></nz-option>
+                </ng-container>}
+        </nz-select> -->
+	</div>
+	<!-- <form #f="ngForm" [formGroup]="phoneForm">
+		<div class="wrapper">
+			<ngx-intl-tel-input [cssClass]="'custom'"
+				[enableAutoCountrySelect]="true"
+				[enablePlaceholder]="true"
+				[searchCountryFlag]="true"
+				[searchCountryField]="[SearchCountryField.Iso2, SearchCountryField.Name]"
+				[selectFirstCountry]="true"
+				[selectedCountryISO]="selectedCountry"
+				[maxLength]="15"
+				[phoneValidation]="true"
+				[separateDialCode]="separateDialCode"
+				[numberFormat]="PhoneNumberFormat.National"
+				name="phone"
+				formControlName="phone">
+			</ngx-intl-tel-input>
+		</div>
+		<div class="wrapper">
+			<button (click)="f.reset()">Reset</button>
+		</div>
+	</form> -->
+</div>
+
+<div style="margin: 50px">
+	<h1>Test International Telephone Input Form</h1>
+	<br>
+	<div class="wrapper">
+	  <input type="checkbox" [(ngModel)]="separateDialCode">
+	  <label>&nbsp;Separate Dial Code?</label>
+	</div>
+	<div class="wrapper">
+	  <!-- Country Code Selector -->
+	  
+	</div>
+	<form #f="ngForm" [formGroup]="phoneForm">
+		<nz-select class="mt-2" nzAllowClear nzPlaceHolder="Select Country Code" 
+		  formControlName="contryCodeId" nzId="contryCodeId" style="width: 130px;"
+		  [nzShowSearch]="true"(ngModelChange)="changeCountry($event)">
+		  <ng-container *ngFor="let option of contryCodeOptions">
+			<nz-option [nzLabel]="option.label" [nzValue]="option.value"></nz-option>
+		  </ng-container>
+	  </nz-select>
+	 
+		<ngx-intl-tel-input  class=""
+		  [enableAutoCountrySelect]="true"
+		  [enablePlaceholder]="true"
+		  [searchCountryFlag]="true"
+		  [searchCountryField]="[SearchCountryField.Iso2, SearchCountryField.Name]"
+		  [selectFirstCountry]="false"
+		  [selectedCountryISO]="selectedCountry"
+		  [maxLength]="15"
+		  [phoneValidation]="true"
+		  [separateDialCode]="separateDialCode"
+		  [numberFormat]="PhoneNumberFormat.National"
+		  name="phone"
+		  formControlName="phone">
+		</ngx-intl-tel-input>
+	  
+	  <div class="wrapper ">
+		<button (click)="f.reset()">Reset</button>
+		<button class="pl-5" (click)="submitForm()">submit</button>
+	  </div>
+	</form>
+  </div>
+  

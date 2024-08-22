@@ -1,0 +1,40 @@
+  <div class="pt-8 px-3  md:px-56">
+  
+  <form nz-form [formGroup]="validateForm" (ngSubmit)="submitForm()">
+    <nz-form-item>
+      <nz-form-control nzErrorTip="Please input your name!">
+        <nz-form-label [nzSm]="24" [nzXs]="24" [nzXl]="24" nzFor="name">Name</nz-form-label>
+        <nz-input-group >
+          <input nz-input id="name" formControlName="name" class="text-input" placeholder="Name"/>
+        </nz-input-group>
+      </nz-form-control>
+    </nz-form-item>
+    <nz-form-item>
+      <nz-form-control  [nzValidateStatus]="isSubmitted && validateForm.hasError('phoneWithCountryCode') ? 'error' : ''"
+      nzErrorTip="Please input both country code and phone number!">
+      <nz-form-label [nzSm]="24" [nzXs]="24" [nzXl]="24" nzFor="name">Phone no</nz-form-label>
+        <nz-input-group >
+          <nz-input-group [nzAddOnBefore]="addOnBeforeTemplate" class="rounded-s-md">
+            <ng-template #addOnBeforeTemplate>
+             <nz-select class="mt-2"  nzPlaceHolder="" [nzCustomTemplate]="countryCodeTemplate"
+            formControlName="countryCodeId" nzShowSearch="true" nzPlaceHolder="+91" style="width: 100px;">
+                <ng-container *ngFor="let option of contryCodeOptions; trackBy: trackById">
+                    <nz-option [nzLabel]="option.value" [nzValue]="option.id"></nz-option>
+                </ng-container>
+            </nz-select>
+            </ng-template>
+            <input formControlName="phone" id="'phone'" class="rounded-md p-2" placeholder="phone" nz-input />
+          </nz-input-group>
+        </nz-input-group>
+      </nz-form-control>
+    </nz-form-item>
+    <ng-template #countryCodeTemplate let-option>
+      {{ option.nzLabel.substring(option.nzLabel.lastIndexOf('(') + 1, option.nzLabel.lastIndexOf(')')) }}
+    </ng-template>
+    <div nz-row class="">
+      <button nz-button class="w-full rounded-md mt-3" [nzType]="'primary'">register</button>
+    </div>
+    
+  </form>
+  </div>
+  

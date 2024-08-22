@@ -1,0 +1,11 @@
+D:\Mobile-Code\Mobile.Service\Mobile.Domain\bin\Debug\net8.0\Mobile.Domain.deps.json
+D:\Mobile-Code\Mobile.Service\Mobile.Domain\bin\Debug\net8.0\Mobile.Domain.dll
+D:\Mobile-Code\Mobile.Service\Mobile.Domain\bin\Debug\net8.0\Mobile.Domain.pdb
+D:\Mobile-Code\Mobile.Service\Mobile.Domain\obj\Debug\net8.0\Mobile.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Mobile-Code\Mobile.Service\Mobile.Domain\obj\Debug\net8.0\Mobile.Domain.AssemblyInfoInputs.cache
+D:\Mobile-Code\Mobile.Service\Mobile.Domain\obj\Debug\net8.0\Mobile.Domain.AssemblyInfo.cs
+D:\Mobile-Code\Mobile.Service\Mobile.Domain\obj\Debug\net8.0\Mobile.Domain.csproj.CoreCompileInputs.cache
+D:\Mobile-Code\Mobile.Service\Mobile.Domain\obj\Debug\net8.0\Mobile.Domain.dll
+D:\Mobile-Code\Mobile.Service\Mobile.Domain\obj\Debug\net8.0\refint\Mobile.Domain.dll
+D:\Mobile-Code\Mobile.Service\Mobile.Domain\obj\Debug\net8.0\Mobile.Domain.pdb
+D:\Mobile-Code\Mobile.Service\Mobile.Domain\obj\Debug\net8.0\ref\Mobile.Domain.dll

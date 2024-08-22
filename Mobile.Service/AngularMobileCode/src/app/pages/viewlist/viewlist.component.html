@@ -1,0 +1,24 @@
+<div class="p-5">
+    <nz-table #basicTable [nzData]="Viewlist">
+        <thead>
+          <tr>
+            <th>Name</th>
+            <th>Phone</th>
+            <th>Pre-Coundry code</th>
+            <th>Action</th>
+          </tr>
+        </thead>
+        <tbody>
+            @for (data of Viewlist; track $index) {
+          <tr>
+            <td>{{ data.name }}</td>
+            <td>{{ data.phone }}</td>
+            <td>{{ data.value }}</td>
+            <td>
+              <a (click)="getId(data.id)">View</a>
+            </td>
+          </tr>
+        }
+        </tbody>
+      </nz-table>
+</div>

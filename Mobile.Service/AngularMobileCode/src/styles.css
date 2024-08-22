@@ -1,0 +1,29 @@
+/* You can add global styles to this file, and also import other style files */
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer utilities {
+    .text-input {
+        @apply p-2 rounded-md !important;
+    }
+
+    .theme-btn {
+        @apply h-12 font-medium rounded-md !important;
+    }
+    
+}
+.ant-input-group-addon{
+   border-top-left-radius: 5px;
+   border-bottom-left-radius: 5px;
+}
+.ant-select-selector {
+    border-radius: 6px !important;
+    align-items: center !important;
+    padding-top: 20px !important;
+    padding-bottom: 20px !important;
+    border: none;
+}
+.ngx-intl-tel-input{
+    height: 40px !important;
+}
